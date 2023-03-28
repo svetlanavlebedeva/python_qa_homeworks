@@ -1,6 +1,5 @@
 import csv
 import json
-import time
 
 
 def read_users_from_json(file_name):

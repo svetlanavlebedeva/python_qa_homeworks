@@ -1,6 +1,5 @@
 import csv
 import json
-import time
 
 
 def func_ex6():

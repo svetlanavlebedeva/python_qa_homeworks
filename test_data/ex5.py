@@ -1,7 +1,6 @@
 import csv
 import json
 import os
-import time
 
 
 def func_ex8():

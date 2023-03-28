@@ -1,6 +1,5 @@
 import csv
 import json
-import time
 from dataclasses import asdict, dataclass, field
 from json import JSONDecodeError
 from typing import Iterable, List, Tuple
